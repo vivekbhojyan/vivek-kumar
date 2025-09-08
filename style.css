@@ -1,0 +1,13 @@
+
+div{
+    display: inline-block;
+}
+.one{
+    position: fixed;
+    right: 40%;
+
+}
+.two{
+    position: fixed;
+    left:40%
+}
