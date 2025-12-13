@@ -1,0 +1,23 @@
+.a{
+    display: flex;
+    background-color: aquamarine;
+    justify-content:space-between ;
+    width: 750px;
+    height: 40px;
+    align-items: center;
+    padding: 5px;
+}
+.b{
+    height: 200px;
+    width: 212px;
+    border: solid black;
+    
+}
+a{
+ text-decoration: none;
+}
+.c{
+    display: flex;
+    background: antiquewhite;
+    justify-content: space-around;
+}

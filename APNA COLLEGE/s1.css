@@ -1,0 +1,16 @@
+.a{
+    display:flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+
+}
+.b{
+    display:flex;
+    background:aquamarine;
+    border: solid black 5px;
+
+}
+.c{
+    text-align: center;
+    border:solid black 2px;
+}

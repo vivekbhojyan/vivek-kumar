@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(210, 188, 159);
+}
+
+#a{
+    background-color: rgb(174, 235, 235);
+}
+#b{
+    background-color: rgb(139, 245, 245);
+}
+div{
+    background-color: black;
+}
+#c{
+    background-color: rgb(190, 122, 33);
+}
+#a{
+    color: rgb(225,40,40);
+}
+input::placeholder {
+      color: rgb(225, 40, 40); 
+    }
+#pb{
+     color: rgb(225,40,40);
+     background-color: rgb(174,235,235);
+    }
+P{
+     color: rgb(7, 99, 68); 
+     text-decoration: underline;
+      background-color: aliceblue;
+    }
+#d{
+    background-color: rgb(31, 239, 8);
+}
+#e{
+    background-color: rgb(245, 56, 56);
+}
